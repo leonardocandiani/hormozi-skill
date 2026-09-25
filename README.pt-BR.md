@@ -16,6 +16,7 @@
   <p>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-00d9ff?style=for-the-badge" alt="License: MIT" /></a>
     <a href="https://docs.claude.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Made%20for-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Made for: Claude Code" /></a>
+    <a href="https://github.com/leonardocandiani/hormozi-skill/releases"><img src="https://img.shields.io/github/v/release/leonardocandiani/hormozi-skill?display_name=tag&style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="Release" /></a>
     <img src="https://img.shields.io/badge/Python-3%20%C2%B7%20no%20dependencies-1a1a2e?style=for-the-badge&logo=python&logoColor=white" alt="Python: 3 · no dependencies" />
     <img src="https://img.shields.io/badge/modes-8-00d9ff?style=for-the-badge" alt="modes: 8" />
     <img src="https://img.shields.io/badge/skill%20language-PT--BR-00d9ff?style=for-the-badge" alt="skill language: PT-BR" />

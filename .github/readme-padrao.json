@@ -16,6 +16,7 @@
   "badges": [
     "license",
     "claude",
+    "release",
     {
       "label": "Python",
       "msg": "3 · no dependencies",
