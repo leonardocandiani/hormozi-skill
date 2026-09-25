@@ -47,7 +47,7 @@
 product:  Claude Code skill to review and create sales material
 modes:    document · copy · conversation · offer · revenue · funnel · closing · leads
 based on: $100M Offers, Leads, Money Models and 10 playbooks from 2025
-extends:  B2B buying committees, Brazilian consumer law, Pix and installments, WhatsApp, ethics
+extends:  B2B committees, Brazilian consumer law, Pix, WhatsApp, ethics
 scripts:  triagem_copy.py · analisar_conversa.py · funil.py
 install:  git clone into ~/.claude/skills/hormozi
 license:  MIT
