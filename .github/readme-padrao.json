@@ -1,0 +1,70 @@
+{
+  "repo": "hormozi-skill",
+  "name": "hormozi",
+  "desc": "Claude Code skill for sales analysis with the Hormozi method",
+  "lang": "en",
+  "palette": "candiani",
+  "author": "candiani",
+  "license": "MIT",
+  "typing": [
+    "Reviews proposals, copy, ads and sales conversations",
+    "Scored rubric, quoted evidence, rewrite ready to paste",
+    "Hormozi method plus B2B, Brazilian law, Pix, WhatsApp",
+    "3 stdlib Python scripts with TOON output"
+  ],
+  "tagline": "The three changes most likely to close more deals, with the current text and a ready rewrite.",
+  "badges": [
+    "license",
+    "claude",
+    {
+      "label": "Python",
+      "msg": "3 · no dependencies",
+      "logo": "python"
+    },
+    {
+      "label": "modes",
+      "msg": "8",
+      "color": "ACCENT"
+    },
+    {
+      "label": "skill language",
+      "msg": "PT-BR",
+      "color": "ACCENT"
+    },
+    "prs"
+  ],
+  "pitch": "**hormozi** reads your sales material like the skeptical buyer: it runs the mechanical triage, scores the mode's rubric and returns the three changes with the biggest impact on the yes, each with the quoted text and the new version to paste.",
+  "notice": "Not affiliated with Alex Hormozi or Acquisition.com. Framework names belong to their authors; the summaries are written in original words.",
+  "what": {
+    "product": "Claude Code skill to review and create sales material",
+    "modes": "document · copy · conversation · offer · revenue · funnel · closing · leads",
+    "based on": "$100M Offers, Leads, Money Models and 10 playbooks from 2025",
+    "extends": "B2B buying committees, Brazilian consumer law, Pix and installments, WhatsApp, ethics",
+    "scripts": "triagem_copy.py · analisar_conversa.py · funil.py",
+    "install": "git clone into ~/.claude/skills/hormozi",
+    "license": "MIT"
+  },
+  "translations": {
+    "pt": {
+      "desc": "Skill do Claude Code para análise comercial pelo método Hormozi",
+      "typing": [
+        "Revisa proposta, copy, anúncio e conversa de venda",
+        "Nota por rubrica, trecho citado e reescrita pronta",
+        "Método Hormozi mais B2B, CDC, Pix e WhatsApp",
+        "3 scripts em Python puro, saída em TOON"
+      ],
+      "tagline": "As três mudanças que mais aumentam a chance de fechar, com o trecho atual e a reescrita pronta.",
+      "pitch": "**hormozi** lê seu material comercial como o cliente cético: roda a triagem mecânica, passa a rubrica do modo e entrega as três mudanças de maior impacto no sim, cada uma com o trecho citado e a versão nova para colar.",
+      "notice": "Sem afiliação com Alex Hormozi ou Acquisition.com. Os nomes dos frameworks pertencem aos autores; os resumos são escritos com palavras próprias.",
+      "what": {
+        "produto": "skill do Claude Code para revisão e criação de material comercial",
+        "modos": "documento · copy · conversa · oferta · receita · funil · fechamento · leads",
+        "base": "$100M Offers, Leads, Money Models e 10 playbooks de 2025",
+        "expansões": "B2B com comitê, CDC, Pix e parcelamento, WhatsApp, limites éticos",
+        "scripts": "triagem_copy.py · analisar_conversa.py · funil.py",
+        "instalação": "git clone em ~/.claude/skills/hormozi",
+        "licença": "MIT"
+      }
+    }
+  }
+}
